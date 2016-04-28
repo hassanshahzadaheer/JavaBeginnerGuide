@@ -1,0 +1,42 @@
+1. What is bytecode and why is it important to Java’s use for Internet programming?
+(Ans) Bytecode is a highly optimized set of instructions designed to be executed by the Java run-time system,
+which is called the Java Virtual Machine (JVM) . In essence, the original JVM was designed
+as an interpreter for bytecode.Translating a Java program into bytecode makes it much easier to run a program in
+a wide variety of environments because only the JVM needs to be implemented for each
+platform.
+2. What are the three main principles of object-oriented programming?
+(Ans) 1 : Abstraction
+      2 : Encapsulation
+      3 : Polymorphism
+      4 : inheritence
+3. Where do Java programs begin execution?
+(Ans) java begin the execution using main method.
+4. What is a variable?
+(Ans) variable is a container to store the data. or A variable is a named memory location that can be assigned a value.
+5. Which of the following variable names is invalid?
+A. count (valid)
+B. $count (valid)
+C. count27 (valid)
+D. 67count
+6. How do you create a single-line comment? How do you create a multiline comment?
+(Ans) // this is single line comment
+/**
+    this is multiline comment.
+*/
+7. Show the general form of the if statement. Show the general form of the for loop.
+(Ans) if (condition)  message if condition is true; 
+    for (initilize; testingcondition; increment or decrement) message how many time you want to repete
+8. How do you create a block of code?
+    if (condition) {block of code}
+9. The moon’s gravity is about 17 percent that of earth’s. Write a program that computes your
+effective weight on the moon.
+10. Adapt Try This 1-2 so that it prints a conversion table of inches to meters. Display 12 feet
+of conversions, inch by inch. Output a blank line every 12 inches. (One meter equals
+approximately 39.37 inches.)
+11. If you make a typing mistake when entering your program, what sort of error will result?
+(Ans) syntax error or if you enter something
+incorrectly into your program, the compiler will report a syntax error message when it tries to
+compile it. 
+12. Does it matter where on a line you put a statement?
+(ans) : Java is a free-form language, meaning that it does not matter where you place statements relative
+to each other on a line.
