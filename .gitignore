@@ -1,0 +1,5 @@
+*.c~
+*.txt
+.DS_Store
+*.class
+*.swp
