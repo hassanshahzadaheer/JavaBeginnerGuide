@@ -5,7 +5,7 @@
  * hassanshahzadaheer@gmail.com
  * 
  * This is the 3st class task to take a user input as digit and convert into string.
- * 22 - May - 2016
+ * 15 - May - 2016
  **/
  import java.util.Scanner;
 
