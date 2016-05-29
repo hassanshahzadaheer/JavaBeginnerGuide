@@ -6,7 +6,7 @@
  * 
  * This is the 3rd class task to take a user input and check how many times Character comes in
  * user input.
- * 22 - May - 2016
+ * 15 - May - 2016
  **/
  
 import java.util.Scanner;
