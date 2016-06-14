@@ -1,5 +1,14 @@
+/**
+ * Teacher.java
+ * 
+ * Hassan Shahzad aheer
+ * hassanshahzadaheer@gmail.com
+ * 
+ * Mini sutdent management system
+ * Main class 
+ * 12 - June - 2016
+ **/
 
-package student;
 
 public class Teacher {
 
@@ -15,58 +24,35 @@ public class Teacher {
         this.experiance = experiance;
     }
 
-    /**
-     * @return the name
-     */
+    
     public String getName() {
         return name;
     }
 
-    /**
-     * @param name the name to set
-     */
     public void setName(String name) {
         this.name = name;
     }
 
-    /**
-     * @return the age
-     */
     public int getAge() {
         return age;
     }
 
-    /**
-     * @param age the age to set
-     */
     public void setAge(int age) {
         this.age = age;
     }
 
-    /**
-     * @return the subject
-     */
     public String getSubject() {
         return subject;
     }
 
-    /**
-     * @param subject the subject to set
-     */
     public void setSubject(String subject) {
         this.subject = subject;
     }
 
-    /**
-     * @return the experiance
-     */
     public String getExperiance() {
         return experiance;
     }
 
-    /**
-     * @param experiance the experiance to set
-     */
     public void setExperiance(String experiance) {
         this.experiance = experiance;
     }
