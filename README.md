@@ -5,3 +5,7 @@ This is the practice and some solution of the class task.
 [23 - April - 2016 Class Task Solution](https://github.com/hassanshahzadaheer/JavaBeginnerGuide/blob/master/ClassTask/Game.java) <br>
 [15 - May - 2016 Digit To String Solution](https://github.com/hassanshahzadaheer/JavaBeginnerGuide/blob/master/ClassTask/DigitToString.java) <br>
 [15 - May - 2016 CharacterCount Solution](https://github.com/hassanshahzadaheer/JavaBeginnerGuide/blob/master/ClassTask/CharacterCount.java) <br>
+[12 - June - 2016 Lab Task ](https://github.com/hassanshahzadaheer/JavaBeginnerGuide/blob/master/LabTask) <br>
+
+
+
