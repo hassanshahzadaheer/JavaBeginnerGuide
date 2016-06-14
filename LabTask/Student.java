@@ -1,22 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package student;
+/**
+ * Student.java
+ * 
+ * Hassan Shahzad aheer
+ * hassanshahzadaheer@gmail.com
+ * 
+ * Mini sutdent management system
+ * Main class 
+ * 12 - June - 2016
+ **/
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author maxito
- */
 public class Student {
 
-    /**
-     * @param args the command line arguments
-     */
     public static Teacher teacher[] = new Teacher[2];
 
     public static void main(String[] args) {
