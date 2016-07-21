@@ -9,7 +9,7 @@
  * 2nd - generate random number and compare with user input.
  * 3rd - if user won 3 time then add cradit to the game
  * user input.
- * 15 - May - 2016
+ * 17 - July - 2016
  **/
 package assingmentThree;
 
